@@ -9,7 +9,7 @@ sections:
     content:
       title: 智慧海洋实验室
       image:
-        filename: hero-academic.png
+        filename: hero-smartocean.png
       cta:
         label: '**Get Started**'
         url: https://wowchemy.com/templates/
@@ -125,7 +125,7 @@ sections:
   - block: collection
     id: posts
     content:
-      title: 最近文章
+      title: 最近博客
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
